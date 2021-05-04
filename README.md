@@ -1,5 +1,5 @@
 # global_armed_conflict_analysis
-This repository contains the original data, a copy of the Google Colaboratory notebook used to analyze the data, the data visualizations, and the background/context/initial question “write up” for the global armed conflict analysis.
+This repository contains the original data, a copy of the Google Colaboratory notebook used to analyze the data, data visualizations, and the research query background information for the global armed conflict analysis.
 
 # Global Armed Conflict Analysis
 
