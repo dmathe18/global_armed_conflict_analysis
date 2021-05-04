@@ -1,7 +1,7 @@
 # global_armed_conflict_analysis
 This repository contains the original data, a copy of the Google Colaboratory notebook used to analyze the data, data visualizations, and the research query background information for the global armed conflict analysis.
 
-# Global Armed Conflict Analysis
+# Global Military Conflict Analysis
 
 ## Background
 With the U.S. hispanic population [on track to grow 86%](https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects/) in the next four decades, the impetus for data-driven analyses of employment outcomes among the Hispanic population has never been greater. As job opportunities in many of the fastest-growing industries increasingly require more than a high school diploma, comparative analyses of employment statistics among U.S. minority populations will become increasingly important and relevant to policymakers seeking to understand and address the underlying causes of [contemporary social issues](https://www.shrm.org/hr-today/public-policy/hr-public-policy-issues/Documents/15-0746%20CHCI_Research_Report_FNL.pdf) such as the skills gap, barriers to educational attainment, and discriminatory hiring practices that disproportionately impact communities of color.
